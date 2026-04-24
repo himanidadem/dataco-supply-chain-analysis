@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: dataco_supply_chain
+Version: 0.1.0
+Summary: DataCo Supply Chain Intelligence
+Requires-Python: >=3.10
+License-File: LICENSE
+Dynamic: license-file
